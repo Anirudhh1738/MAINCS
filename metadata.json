@@ -1,0 +1,6 @@
+{
+  "name": "Online Legal India",
+  "description": "Professional business registration, trademark protection, GST, and legal compliance services platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
